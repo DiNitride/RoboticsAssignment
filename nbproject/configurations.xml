@@ -31,7 +31,7 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool></platformTool>
         <languageToolchain>XC16</languageToolchain>
-        <languageToolchainVersion>1.41</languageToolchainVersion>
+        <languageToolchainVersion>1.50</languageToolchainVersion>
         <platform>2</platform>
       </toolsSet>
       <packs>
