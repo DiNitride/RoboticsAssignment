@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=RoboticsAssignment.X
+PROJECTNAME=RoboticsAssignment
 
 # Active Configuration
 DEFAULTCONF=default
